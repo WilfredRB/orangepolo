@@ -1,2 +1,2 @@
-# orangepolo
+# OrangePolo
 My personal repository 
